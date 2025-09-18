@@ -1,5 +1,5 @@
 # 08 — Basics of Port Addressing
-
+ 
 ## Analogy
 - Reaching the **apartment building** = Reaching the host (IP address).  
 - Reaching the **apartment unit** = Reaching the device (MAC address).  
