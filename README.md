@@ -17,14 +17,14 @@ I created it to both **learn deeply** and keep a reference I can use in **techni
 9. [Switching](./docs/09_Switching Techniques in Computer Networksmd) -->
 
 1. [Basics](./docs/01_basics.md)
-2. [Network Protocols & Communications](./docs/02_Network%20Protocols%20%26%20Communications.md)
-3. [Components of a Computer Network](./docs/03_Components%20of%20a%20Computer%20Network.md)
-4. [LAN, MAN, WAN](./docs/04_Classification%20of%20Computer%20Networks.md)
-5. [Bus, Star, Ring, Mesh, Hybrid](./docs/05_Network%20Topology.md)
-6. [IP Address](./docs/06_Basics%20of%20IP%20Addressing.md)
-7. [MAC Address](./docs/07_Basics%20of%20MAC%20Addressing.md)
-8. [PORT Address](./docs/08_Basics%20of%20Port%20Addressing.md)
-9. [Switching](./docs/09_Switching%20Techniques%20in%20Computer%20Networks.md)
+2. [Network Protocols](./docs/02_network_protocols.md)
+3. [Network Components](./docs/03_components.md)
+4. [LAN, MAN, WAN](./docs/04_network_types.md)
+5. [Topologies](./docs/05_topologies.md)
+6. [IP Addressing](./docs/06_ip_addressing.md)
+7. [MAC Addressing](./docs/07_mac_addressing.md)
+8. [Port Addressing](./docs/08_port_addressing.md)
+9. [Switching](./docs/09_switching.md
 ## 🧪 Labs
 - [Lab01 — Ping & Traceroute](./labs/lab01_ping_traceroute.md)
 - [Lab02 — Subnetting](./labs/lab02_subnetting.md)
