@@ -8,7 +8,7 @@ I created it to both **learn deeply** and keep a reference I can use in **techni
 ## 📖 Chapters
 1. [Basics](./docs/01_basics.md)
 2. [OSI & TCP/IP Models](./docs/02_Network Protocols & Communications.md)
-3. [IP Addressing & Subnetting](./docs/03_ip_addressing_subnetting.md)
+3. [IP Addressing & Subnetting](./docs/03_Components of a Computer Network.md)
 4. [Transport Layer (TCP/UDP)](./docs/04_transport_tcp_udp.md)
 5. [Routing & Switching](./docs/05_routing_switching.md)
 6. [Network Devices](./docs/06_network_devices.md)
