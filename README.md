@@ -23,7 +23,7 @@ I created it to both **learn deeply** and keep a reference I can use in **techni
 5. [Bus, Star, Ring, Mesh, Hybrid](./docs/05_Network%20Topology.md)
 6. [IP Address](./docs/06_Basics%20of%20IP%20Addressing.md)
 7. [MAC Address](./docs/07_Basics%20of%20MAC%20Addressing.md)
-8. [PORT Address](./docs/08%20-%20Basics%20of%20Port%20Addressing.md)
+8. [PORT Address](./docs/08_Basics%20of%20Port%20Addressing.md)
 9. [Switching](./docs/09_Switching%20Techniques%20in%20Computer%20Networks.md)
 ## 🧪 Labs
 - [Lab01 — Ping & Traceroute](./labs/lab01_ping_traceroute.md)
