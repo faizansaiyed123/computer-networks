@@ -17,7 +17,7 @@ I created it to both **learn deeply** and keep a reference I can use in **techni
 9. [Switching](./docs/09_Switching Techniques in Computer Networksmd) -->
 
 1. [Basics](./docs/01_basics.md)
-2. [Network Protocols](./docs/02_network_protocols.md)
+2. [Network Protocols](./docs/02_Network Protocols & Communications.md)
 3. [Network Components](./docs/03_components.md)
 4. [LAN, MAN, WAN](./docs/04_network_types.md)
 5. [Topologies](./docs/05_topologies.md)
