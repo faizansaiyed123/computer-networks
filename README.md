@@ -10,11 +10,9 @@ I created it to both **learn deeply** and keep a reference I can use in **techni
 2. [Network Protocols & Communications](./docs/02_Network Protocols & Communications.md)
 3. [Components of a Computer Network](./docs/03_Components of a Computer Network.md)
 4. [LAN ,MAN, WAN](./docs/04_Classification of Computer Networks.md)
-5. [Routing & Switching](./docs/05_Network Topology.md)
-6. [Bus , Star, Ring, Mesh, Hybrid](./docs/06_network_devices.md)
-7. [DNS, DHCP, NAT](./docs/07_dns_dhcp_nat.md)
-8. [Network Security](./docs/08_network_security.md)
-9. [Cloud & SDN](./docs/09_cloud_sdn.md)
+5. [Bus , Star, Ring, Mesh, Hybrid](./docs/05_Network Topology.md)
+6. [IP Address](./docs/06_Basics of IP Addressing.md)
+7. []
 
 ## 🧪 Labs
 - [Lab01 — Ping & Traceroute](./labs/lab01_ping_traceroute.md)
