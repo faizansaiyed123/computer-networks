@@ -12,7 +12,7 @@ I created it to both **learn deeply** and keep a reference I can use in **techni
 4. [LAN ,MAN, WAN](./docs/04_Classification of Computer Networks.md)
 5. [Bus , Star, Ring, Mesh, Hybrid](./docs/05_Network Topology.md)
 6. [IP Address](./docs/06_Basics of IP Addressing.md)
-7. []
+7. [MAC Address](./docs/07_Basics of MAC Addressing.md)
 
 ## 🧪 Labs
 - [Lab01 — Ping & Traceroute](./labs/lab01_ping_traceroute.md)
