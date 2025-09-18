@@ -69,3 +69,16 @@ Protocols used in network communications also define:
 2: Multicast -> the sender is sending the data to set of reciver not to all is called multicast.
 3: Broadcast -> the sender is sending the data to all the particepents in the network is called broadcast.
 
+
+
+# what is  Peer-To-Peer Network?
+No centralized administration.
+All Peers are equal.
+Simple Sharing applications.
+Not Scalable.
+
+# Client Server Network ?
+centralized administration.
+Request-Response model.
+Scalable.
+Server may be overloaded.
