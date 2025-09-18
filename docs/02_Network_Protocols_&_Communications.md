@@ -1,4 +1,4 @@
-# 02 — Network Protocols
+# 02 — 02_Network_Protocols_&_Communications
 
 ## What is Data Communication?
 Data communication is the exchange of data between two nodes using a transmission medium (e.g., cable, wireless).
