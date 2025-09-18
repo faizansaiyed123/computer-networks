@@ -18,13 +18,13 @@ I created it to both **learn deeply** and keep a reference I can use in **techni
 
 1. [Basics](./docs/01_basics.md)
 2. [Network Protocols](./docs/02_Network_Protocols_&_Communications.md)
-3. [Network Components](./docs/03_components.md)
-4. [LAN, MAN, WAN](./docs/04_network_types.md)
-5. [Topologies](./docs/05_topologies.md)
-6. [IP Addressing](./docs/06_ip_addressing.md)
-7. [MAC Addressing](./docs/07_mac_addressing.md)
-8. [Port Addressing](./docs/08_port_addressing.md)
-9. [Switching](./docs/09_switching.md
+3. [Network Components](./docs/03_Components_of_a_Computer_Network.md)
+4. [LAN, MAN, WAN](./docs/04_Classification_of_Computer_Networks.md)
+5. [Topologies](./docs/05_Network_Topology.md)
+6. [IP Addressing](./docs/06_Basics_of_IP_Addressing.md)
+7. [MAC Addressing](./docs/07_Basics_of_MAC_Addressing.md)
+8. [Port Addressing](./docs/08_Basics_of_Port_Addressing.md)
+9. [Switching](./docs/09_Switching_Techniques_in_Computer_Networks.md)
 ## 🧪 Labs
 - [Lab01 — Ping & Traceroute](./labs/lab01_ping_traceroute.md)
 - [Lab02 — Subnetting](./labs/lab02_subnetting.md)
