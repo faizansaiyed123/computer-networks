@@ -38,3 +38,21 @@ sequance number will help the reciver to
 recordor the packets.
 ditect missing packets 
 send acknowladgements
+
+two approach in oacket switching
+1. datagram approach
+2. virtual circuit approach
+
+
+1: datagram packet switching is also known as conncetionless  switching 
+each indenpenditly entity is called as datagram
+datargrams contain destination information and the intermidery devices uses this information to forword datagrams to right destination
+in datagram pacets the switching approach the path is not fixed
+intermdiates notes take the routing descision to forword the packets.
+
+
+2: virtual cerciute approach:
+virtual ciruit switching is also known as conection orianted switching
+in the case of virtual circuit switching a preplamned rout is establishing before the message are set
+call request and call accept packet are sue to establish the connection between sender and reciver
+in this approach the path is fixed for the durationn of a logical connection
