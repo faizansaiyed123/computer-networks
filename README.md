@@ -17,6 +17,7 @@ I created it to both **learn deeply** and keep a reference I can use in **techni
 8. [Port Addressing](./docs/08_Basics_of_Port_Addressing.md)
 9. [Switching](./docs/09_Switching_Techniques_in_Computer_Networks.md)
 10. [Layering](./docs/10_Layering_in_Computer_Networks.md)
+11. [OSI Reference Model ](./docs/11_OSI_Reference_Model%20.md.md)
 ## 🧪 Labs
 - [Lab01 — Ping & Traceroute](./labs/lab01_ping_traceroute.md)
 - [Lab02 — Subnetting](./labs/lab02_subnetting.md)
